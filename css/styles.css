@@ -1,0 +1,87 @@
+/* ####### TAG SELECTORS */
+
+body{
+    background-color: #143A52;
+    text-align: center; /* aligns the text of the whole body to be centered */ 
+    font-family: 'Mukta', sans-serif;
+}
+
+h1{
+    color: #E3EFF3;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4.375rem;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+h2{
+    color: #E3EFF3;
+    font-family: 'Lora', serif;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted; 
+    border-color: #CDE3EB;
+    border-width: thick;
+    width: 10%;
+}
+
+p{
+    margin: 0;
+}
+
+blockquote {
+    margin: 0;
+    width: 20%;
+    display: inline-block;
+}
+
+blockquote p {
+    background: rgba(238, 238, 238, 0.89);
+    border-radius: 5px;
+    padding: 5px;
+
+}
+
+/* ####### CLASS SELECTORS */
+
+.bottom-container{    
+    background-color: #CDE3EB;
+}
+
+.footer-link{
+    font-size: 0.7rem;
+}
+
+.img-5{
+    width: 5%;
+}
+
+.img-20{
+    width: 20%;
+}
+
+.middle-container{
+    background-color: #6E828A;
+    margin: 0;
+}
+
+.profile{
+    padding-top: 20px;
+}
+
+.table{
+    display: inline-block;
+    text-align: left;
+}
+
+.top-container{
+    background-color: #143A52;
+    padding-top: 10px;
+}
+
+.justify{
+    text-align: justify;
+    padding: 0 20%;
+}
